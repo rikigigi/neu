@@ -1,0 +1,3 @@
+Cliccando sull'area al centro dell'interfaccia con il tasto sinistro del mouse si introducono gli input della rete, cliccando su un input con il destro si rimuovono. E' necessario almeno un input, o il programma non funziona. In altro a sinistra si selezionano il numero di iterazioni. A destra si selezionano i valori dei parametri di apprendimento della rete.
+
+Riccardo Bertossa
