@@ -11,6 +11,6 @@ make
 
 ## what does it do?
 
-click on the window. This will your bidimensional input data. After clicking start, the network will adapt its status to the input data, going from a 2d representation to a 1d one.
+click on the window. This will be your bidimensional input data. After clicking start, the network will adapt its status to the input data, going from a 2d representation to a 1d one.
 
 
